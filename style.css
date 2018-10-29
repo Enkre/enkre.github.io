@@ -33,5 +33,15 @@ a:visited {
 
 p
 { 
-Color : white;
+  color : black;
+}
+
+#p1
+{
+  color : yellow;
+}
+
+#p2
+{
+  color : green;
 }
